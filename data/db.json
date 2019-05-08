@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "login": "asd",
+      "fristName": "asd",
+      "lastName": "asd",
+      "zipCode": "asd",
+      "password": "asd",
+      "id": 1
+    }
+  ]
+}
