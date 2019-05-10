@@ -1,12 +1,20 @@
 {
   "users": [
     {
-      "login": "asd",
-      "fristName": "asd",
-      "lastName": "asd",
-      "zipCode": "asd",
-      "password": "asd",
+      "login": "MarceloG",
+      "fristName": "Marcelo",
+      "lastName": "Gonçalves",
+      "zipCode": "63900-00",
+      "password": "123321",
       "id": 1
+    },
+    {
+      "login": "Masd",
+      "fristName": "podkaf",
+      "lastName": "Lasd",
+      "zipCode": "9080",
+      "password": "908908",
+      "id": 2
     }
   ]
 }

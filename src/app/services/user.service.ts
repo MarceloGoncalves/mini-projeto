@@ -12,4 +12,11 @@ export class UserService {
   register(user:User){
     return this.httpClient.post(this.url, user);
   }
+  list(){
+    return this.httpClient.get(this.url);
+  }
+  
+  delete(id:number){
+    return this.httpClient.delete(this.url,);
+  }
 }
